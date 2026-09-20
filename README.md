@@ -10,6 +10,12 @@ A choropleth map provides the geographic overview, while a time-series view and 
 - `spatial-and-temporal-dashboard.png` — final static dashboard image.
 - `project-notes.md` — concise project narrative and provenance notes.
 
+## Visualization
+
+![Spatial and temporal temperature dashboard](spatial-and-temporal-dashboard.png)
+
+*Static dashboard comparing regional temperature patterns, time series, and monthly differences.*
+
 ## Data sources and permissions
 The underlying climate data were sourced from the World Bank Group Climate Change Knowledge Portal. This repository contains the final visualization and a sanitized narrative, not the original source tables. Check the current portal terms and attribution guidance before reuse.
 
