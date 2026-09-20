@@ -19,7 +19,7 @@ The dashboard asks how regional average surface temperatures compare across time
 
 ## Data and time periods
 
-The underlying climate data were sourced from the World Bank Group Climate Change Knowledge Portal. The analysis spans **1901–2016** and emphasizes comparable 30-year averages, including a **1960–1990 reference period**. The repository contains the final image and a sanitized narrative, not the source tables or dashboard build environment.
+I use climate data from the World Bank Group Climate Change Knowledge Portal. The analysis spans **1901–2016** and emphasizes comparable 30-year averages, including a **1960–1990 reference period**. I provide the final image and a sanitized narrative, not the source tables or dashboard build environment.
 
 ## Workflow
 
@@ -54,7 +54,7 @@ Country- or region-level aggregation can conceal local variation, missing values
 
 ## Reproducibility
 
-Reproduction requires obtaining the relevant portal data under current terms, recording the download date and transformations, computing comparable 30-year averages, and rebuilding the map, time series, and monthly comparison table. Exact values and formatting cannot be regenerated from this repository alone because the source tables and build environment are not included.
+Reproduction requires obtaining the relevant portal data under current terms, recording the download date and transformations, computing comparable 30-year averages, and rebuilding the map, time series, and monthly comparison table. Exact values and formatting cannot be regenerated from the available outputs alone because the source tables and build environment are not included.
 
 ## Repository contents
 
